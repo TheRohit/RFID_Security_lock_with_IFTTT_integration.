@@ -22,5 +22,4 @@ Making a security lock using nodeMCU which can be unlocked by RFID and Google As
 - Add a button "add card" set output V1 0 -> 1, Mode=PUSH
 
 
-
-Template Credits: @SPOCTONE
+Template Credits:  [Subham Patel](https://github.com/SPOCTONE/Contactless_Distance_Finder)
