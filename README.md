@@ -20,3 +20,7 @@ Making a security lock using nodeMCU which can be unlocked by RFID and Google As
 - - - -
 **Using Blynk app to control our device over the Internet**
 - Add a button "add card" set output V1 0 -> 1, Mode=PUSH
+
+
+
+Template Credits: @SPOCTONE
